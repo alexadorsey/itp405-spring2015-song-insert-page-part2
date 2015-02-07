@@ -39,7 +39,7 @@ if (isset($_POST['submit'])) {
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
-                <span class="navbar-brand">HW4: Song Insert Page Part 2</span>
+                <span class="navbar-brand">HW4: Song Insert Page - Part 2</span>
             </div>
             <div id="navbar" class="collapse navbar-collapse">
             </div><!--/.nav-collapse -->
@@ -95,7 +95,6 @@ if (isset($_POST['submit'])) {
                 <br/>
             </form>
             <hr/>
-  
         </div>
     </div><!-- /.container -->
     
